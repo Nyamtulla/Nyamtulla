@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nyamtulla
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Reporting
+- 🌱 I’m currently learning and working on TIBCO Spotfire Reporting
 - 💞️ I’m looking to collaborate on Data Science prjects
 
 <!---
